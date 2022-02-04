@@ -11,3 +11,5 @@ To-Do:
 - [ ] Implement an API Based solution.
 
 Note: I'll update the list as I progress and learn more about Golang.
+
+> Project Board for my task related updates: [View Here](https://github.com/users/iSumitBanik/projects/1/views/4) ⭐
