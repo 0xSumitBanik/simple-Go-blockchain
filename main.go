@@ -39,7 +39,7 @@ import (
 
 func main() {
 	c, _ := handlers.NewContainer()
-	fmt.Printf("\nValue: %v",c)
+	fmt.Printf("%v",c.Block.Data)
 	// chain := InitBlockchain()
 	// chain.AddBlock("This is a first block")
 	// chain.AddBlock("This is a second block")
