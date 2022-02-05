@@ -1,4 +1,4 @@
-package containers
+package core
 
 type Block struct {
 	// Hash of the current block

@@ -1,4 +1,4 @@
-package containers
+package core
 
 type Blockchain struct {
 	// Blockchain contain slice of blocks
